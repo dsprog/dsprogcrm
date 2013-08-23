@@ -1,0 +1,1159 @@
+2013-08-09 18:01:55 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-09 18:02:09 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-09 18:02:10 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-09 18:02:11 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-09 18:02:11 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-09 18:02:12 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-09 18:08:48 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-09 18:08:49 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-09 18:08:50 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-09 18:14:26 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-09 18:18:13 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-09 18:18:15 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-09 18:18:17 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-09 18:18:18 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-09 18:18:18 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-09 18:18:19 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-09 18:18:19 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-09 20:35:35 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-09 20:37:10 Error: [MissingControllerException] Controller class CadsController could not be found.
+Exception Attributes: array (
+  'class' => 'CadsController',
+  'plugin' => NULL,
+)
+Request URL: /cads
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-13 18:36:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min%2C%20bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-13 18:38:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min%2C%20bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-13 18:39:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min%2C%20bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-13 18:39:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min%2C%20bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-13 18:40:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap.min%2C%20bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-13 18:43:00 Error: Fatal Error (4): syntax error, unexpected 'alert' (T_STRING), expecting ')' in [D:\sites\dsprog3\app\View\Pages\home.ctp, line 101]
+2013-08-13 18:43:00 Error: [FatalErrorException] syntax error, unexpected 'alert' (T_STRING), expecting ')'
+Request URL: /
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\sites\dsprog...', 101)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\sites\dsprog...', 101, Array)
+#2 D:\sites\dsprog3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\sites\dsprog...', 101, Array)
+#3 D:\sites\dsprog3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-08-13 18:43:04 Error: Fatal Error (4): syntax error, unexpected 'alert' (T_STRING), expecting ')' in [D:\sites\dsprog3\app\View\Pages\home.ctp, line 101]
+2013-08-13 18:43:04 Error: [FatalErrorException] syntax error, unexpected 'alert' (T_STRING), expecting ')'
+Request URL: /
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\sites\dsprog...', 101)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\sites\dsprog...', 101, Array)
+#2 D:\sites\dsprog3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\sites\dsprog...', 101, Array)
+#3 D:\sites\dsprog3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-08-13 18:44:30 Error: Fatal Error (4): syntax error, unexpected 'alert' (T_STRING), expecting ')' in [D:\sites\dsprog3\app\View\Pages\home.ctp, line 101]
+2013-08-13 18:44:30 Error: [FatalErrorException] syntax error, unexpected 'alert' (T_STRING), expecting ')'
+Request URL: /
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\sites\dsprog...', 101)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\sites\dsprog...', 101, Array)
+#2 D:\sites\dsprog3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\sites\dsprog...', 101, Array)
+#3 D:\sites\dsprog3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-08-23 20:21:08 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users/users
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 20:21:24 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 20:26:27 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(113): CakePlugin::load('User', Array)
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:26:51 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:26:52 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:26:52 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:26:52 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:26:53 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:26:53 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:27:41 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:27:42 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:27:42 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:27:42 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:27:42 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:28:51 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:28:51 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:28:51 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:28:51 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:28:52 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:28:52 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:28:53 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:29:09 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(113): CakePlugin::load('User', Array)
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:29:09 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(113): CakePlugin::load('User', Array)
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:29:09 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(113): CakePlugin::load('User', Array)
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:29:09 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(113): CakePlugin::load('User', Array)
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:29:10 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(113): CakePlugin::load('User', Array)
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:29:10 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(113): CakePlugin::load('User', Array)
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:29:11 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(113): CakePlugin::load('User', Array)
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:29:11 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(113): CakePlugin::load('User', Array)
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:29:23 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:29:24 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:29:24 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:29:24 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:29:24 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:29:27 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:29:28 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:29:28 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:29:28 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:29:28 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:31:17 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:31:18 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:31:18 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:31:18 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:31:18 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:31:19 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:31:19 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:31:19 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:31:21 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:31:21 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:31:21 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:31:22 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:31:33 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:31:34 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:31:34 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:31:34 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:31:34 Error: [MissingPluginException] Plugin User could not be found.
+Exception Attributes: array (
+  'plugin' => 'User',
+)
+Stack Trace:
+#0 D:\sites\dsprog3\app\Config\bootstrap.php(76): CakePlugin::load('User')
+#1 D:\sites\dsprog3\lib\Cake\Core\Configure.php(94): include('D:\sites\dsprog...')
+#2 D:\sites\dsprog3\lib\Cake\bootstrap.php(171): Configure::bootstrap(true)
+#3 D:\sites\dsprog3\app\webroot\index.php(93): include('D:\sites\dsprog...')
+#4 {main}
+2013-08-23 20:31:57 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users/user/add
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 20:32:10 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users/users/add
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 20:33:01 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users/users/add
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 20:33:03 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users/users/add
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 20:33:30 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 20:33:42 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users/users
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 20:33:53 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => 'User',
+)
+Request URL: /user/users
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 20:34:15 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users/users
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 20:35:55 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => 'User',
+)
+Request URL: /user/users
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 20:44:21 Error: [MissingControllerException] Controller class AddController could not be found.
+Exception Attributes: array (
+  'class' => 'AddController',
+  'plugin' => 'User',
+)
+Request URL: /user/add
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 20:44:29 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => 'User',
+)
+Request URL: /user/users
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 20:48:42 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => 'User',
+)
+Request URL: /user/users
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 20:49:13 Error: [MissingActionException] Action UsersController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'index',
+)
+Request URL: /user/users
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-08-23 20:49:41 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in [D:\sites\dsprog3\app\Plugin\User\Controller\UserAppController.php, line 4]
+2013-08-23 20:49:41 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING)
+Request URL: /user/users
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\sites\dsprog...', 4)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\sites\dsprog...', 4, Array)
+#2 D:\sites\dsprog3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\sites\dsprog...', 4, Array)
+#3 D:\sites\dsprog3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-08-23 20:50:45 Error: Fatal Error (1): Class 'AppController' not found in [D:\sites\dsprog3\app\Plugin\User\Controller\UserAppController.php, line 3]
+2013-08-23 20:50:45 Error: [FatalErrorException] Class 'AppController' not found
+Request URL: /user/users
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Class 'AppContr...', 'D:\sites\dsprog...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppContr...', 'D:\sites\dsprog...', 3, Array)
+#2 D:\sites\dsprog3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'AppContr...', 'D:\sites\dsprog...', 3, Array)
+#3 D:\sites\dsprog3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-08-23 20:51:37 Error: [MissingPluginException] Plugin Users could not be found.
+Exception Attributes: array (
+  'plugin' => 'Users',
+)
+Request URL: /user/users
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\Core\App.php(367): CakePlugin::path('Users')
+#1 D:\sites\dsprog3\lib\Cake\Core\App.php(228): App::pluginPath('Users')
+#2 D:\sites\dsprog3\lib\Cake\Core\App.php(549): App::path('Controller', 'Users')
+#3 [internal function]: App::load('UserAppControll...')
+#4 D:\sites\dsprog3\app\Plugin\User\Controller\UsersController.php(3): spl_autoload_call('UserAppControll...')
+#5 D:\sites\dsprog3\lib\Cake\Core\App.php(567): include('D:\sites\dsprog...')
+#6 [internal function]: App::load('UsersController')
+#7 [internal function]: spl_autoload_call('UsersController')
+#8 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(262): class_exists('UsersController')
+#9 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(231): Dispatcher->_loadController(Object(CakeRequest))
+#10 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(153): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#11 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-08-23 20:52:29 Error: [MissingViewException] View file "D:\sites\dsprog3\app\Plugin\User\View\Users\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'D:\\sites\\dsprog3\\app\\Plugin\\User\\View\\Users\\index.ctp',
+)
+Request URL: /user/users
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 D:\sites\dsprog3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-08-23 20:53:55 Error: [MissingControllerException] Controller class RolesController could not be found.
+Exception Attributes: array (
+  'class' => 'RolesController',
+  'plugin' => 'User',
+)
+Request URL: /user/roles
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 20:54:22 Error: [MissingControllerException] Controller class RolesController could not be found.
+Exception Attributes: array (
+  'class' => 'RolesController',
+  'plugin' => 'User',
+)
+Request URL: /user/roles
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 20:56:01 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'created_by' cannot be null
+Request URL: /user/roles/add
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\sites\dsprog3\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `ds...', Array)
+#2 D:\sites\dsprog3\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `ds...')
+#3 D:\sites\dsprog3\lib\Cake\Model\Model.php(1744): DboSource->create(Object(UserAppModel), Array, Array)
+#4 D:\sites\dsprog3\lib\Cake\Controller\Scaffold.php(245): Model->save(Array)
+#5 D:\sites\dsprog3\lib\Cake\Controller\Scaffold.php(394): Scaffold->_scaffoldSave(Object(CakeRequest), 'add')
+#6 D:\sites\dsprog3\lib\Cake\Controller\Scaffold.php(153): Scaffold->_scaffold(Object(CakeRequest))
+#7 D:\sites\dsprog3\lib\Cake\Controller\Controller.php(531): Scaffold->__construct(Object(RolesController), Object(CakeRequest))
+#8 D:\sites\dsprog3\lib\Cake\Controller\Controller.php(490): Controller->_getScaffold(Object(CakeRequest))
+#9 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RolesController), Object(CakeRequest), Object(CakeResponse))
+#11 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-08-23 20:56:24 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'created_by' cannot be null
+Request URL: /user/roles/add
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\Model\Datasource\DboSource.php(460): PDOStatement->execute(Array)
+#1 D:\sites\dsprog3\lib\Cake\Model\Datasource\DboSource.php(426): DboSource->_execute('INSERT INTO `ds...', Array)
+#2 D:\sites\dsprog3\lib\Cake\Model\Datasource\DboSource.php(1004): DboSource->execute('INSERT INTO `ds...')
+#3 D:\sites\dsprog3\lib\Cake\Model\Model.php(1744): DboSource->create(Object(UserAppModel), Array, Array)
+#4 D:\sites\dsprog3\lib\Cake\Controller\Scaffold.php(245): Model->save(Array)
+#5 D:\sites\dsprog3\lib\Cake\Controller\Scaffold.php(394): Scaffold->_scaffoldSave(Object(CakeRequest), 'add')
+#6 D:\sites\dsprog3\lib\Cake\Controller\Scaffold.php(153): Scaffold->_scaffold(Object(CakeRequest))
+#7 D:\sites\dsprog3\lib\Cake\Controller\Controller.php(531): Scaffold->__construct(Object(RolesController), Object(CakeRequest))
+#8 D:\sites\dsprog3\lib\Cake\Controller\Controller.php(490): Controller->_getScaffold(Object(CakeRequest))
+#9 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RolesController), Object(CakeRequest), Object(CakeResponse))
+#11 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-08-23 21:42:24 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => 'User',
+)
+Request URL: /user/
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 21:42:32 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 21:42:43 Error: Fatal Error (64): Cannot redeclare UsersController::admin_index() in [D:\sites\dsprog3\app\Plugin\User\Controller\UsersController.php, line 22]
+2013-08-23 21:42:43 Error: [FatalErrorException] Cannot redeclare UsersController::admin_index()
+Request URL: /user/users
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'D:\sites\dsprog...', 22)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'D:\sites\dsprog...', 22, Array)
+#2 D:\sites\dsprog3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'D:\sites\dsprog...', 22, Array)
+#3 D:\sites\dsprog3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-08-23 21:47:35 Error: Fatal Error (64): Cannot redeclare UsersController::admin_index() in [D:\sites\dsprog3\app\Plugin\User\Controller\UsersController.php, line 22]
+2013-08-23 21:47:35 Error: [FatalErrorException] Cannot redeclare UsersController::admin_index()
+Request URL: /user/users
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'D:\sites\dsprog...', 22)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'D:\sites\dsprog...', 22, Array)
+#2 D:\sites\dsprog3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'D:\sites\dsprog...', 22, Array)
+#3 D:\sites\dsprog3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-08-23 21:51:47 Error: [PrivateActionException] Private Action UsersController::admin_index() is not directly accessible.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_index',
+)
+Request URL: /user/users/admin_index
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-08-23 21:51:58 Error: [PrivateActionException] Private Action UsersController::admin_index() is not directly accessible.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_index',
+)
+Request URL: /user/users/admin_index
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-08-23 21:56:26 Error: [MissingActionException] Action UsersController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'view',
+)
+Request URL: /user/users
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-08-23 21:56:40 Error: [MissingControllerException] Controller class RserController could not be found.
+Exception Attributes: array (
+  'class' => 'RserController',
+  'plugin' => NULL,
+)
+Request URL: /rser/users
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 21:56:49 Error: [MissingControllerException] Controller class RserController could not be found.
+Exception Attributes: array (
+  'class' => 'RserController',
+  'plugin' => NULL,
+)
+Request URL: /rser/users
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 21:57:57 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => 'User',
+)
+Request URL: /user/admin/users/
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 22:06:40 Error: Fatal Error (1): Call to a member function setFlash() on a non-object in [D:\sites\dsprog3\app\Plugin\User\Controller\UsersController.php, line 51]
+2013-08-23 22:06:40 Error: [FatalErrorException] Call to a member function setFlash() on a non-object
+Request URL: /admin/user/users/add
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\sites\dsprog...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\sites\dsprog...', 51, Array)
+#2 D:\sites\dsprog3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\sites\dsprog...', 51, Array)
+#3 D:\sites\dsprog3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-08-23 22:14:56 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /admin/users/login
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-23 22:35:45 Error: [NotFoundException] Invalid user
+Request URL: /admin/user/users/edit/55
+Stack Trace:
+#0 [internal function]: UsersController->admin_edit('55')
+#1 D:\sites\dsprog3\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-08-23 22:36:23 Error: [NotFoundException] Usuário Inválido
+Request URL: /admin/user/users/edit/55
+Stack Trace:
+#0 [internal function]: UsersController->admin_edit('55')
+#1 D:\sites\dsprog3\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
