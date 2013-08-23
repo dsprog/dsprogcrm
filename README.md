@@ -1,6 +1,6 @@
-dsprogcrm
+Dsprog Crm
 =========
 
-Dsprog CRM
+Objetivos do Projeto:
 
 Desenvimento de crm simples para gerenciamento de clientes, projeto e tarefas.
