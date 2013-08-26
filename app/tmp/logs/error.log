@@ -1157,3 +1157,322 @@ Stack Trace:
 #3 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
 #4 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #5 {main}
+2013-08-26 13:38:05 Error: [MissingActionException] Action Roles::admin_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'Roles',
+  'action' => 'admin_index',
+)
+Request URL: /admin/user/roles
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\Controller\Scaffold.php(153): Scaffold->_scaffold(Object(CakeRequest))
+#1 D:\sites\dsprog3\lib\Cake\Controller\Controller.php(531): Scaffold->__construct(Object(RolesController), Object(CakeRequest))
+#2 D:\sites\dsprog3\lib\Cake\Controller\Controller.php(490): Controller->_getScaffold(Object(CakeRequest))
+#3 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#4 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(RolesController), Object(CakeRequest), Object(CakeResponse))
+#5 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2013-08-26 17:15:02 Error: [MissingLayoutException] Layout file "D:\sites\dsprog3\app\View\Plugin\User\Layouts\admin.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'D:\\sites\\dsprog3\\app\\View\\Plugin\\User\\Layouts\\admin.ctp',
+)
+Request URL: /admin/user/users
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\View\View.php(509): View->_getLayoutFileName('admin')
+#1 D:\sites\dsprog3\lib\Cake\View\View.php(479): View->renderLayout('', 'admin')
+#2 D:\sites\dsprog3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#3 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#4 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#5 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2013-08-26 17:19:13 Error: [MissingLayoutException] Layout file "D:\sites\dsprog3\app\View\Plugin\User\Layouts\admin.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'D:\\sites\\dsprog3\\app\\View\\Plugin\\User\\Layouts\\admin.ctp',
+)
+Request URL: /admin/user/users
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\View\View.php(509): View->_getLayoutFileName('admin')
+#1 D:\sites\dsprog3\lib\Cake\View\View.php(479): View->renderLayout('', 'admin')
+#2 D:\sites\dsprog3\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#3 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#4 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#5 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2013-08-26 17:50:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 17:51:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 17:51:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 17:52:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 17:52:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 17:53:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 17:53:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 17:54:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 17:57:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:03:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:03:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:04:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:05:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:06:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:06:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:08:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:13:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:13:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:14:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:14:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:15:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:16:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:17:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:18:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:46:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:46:52 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => 'User',
+)
+Request URL: /admin/user/
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:46:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:47:24 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => 'User',
+)
+Request URL: /admin/user/
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:47:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:47:50 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => 'User',
+)
+Request URL: /user/
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-26 18:47:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
