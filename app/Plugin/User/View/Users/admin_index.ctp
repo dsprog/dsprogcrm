@@ -4,10 +4,9 @@
 		<?php echo $this->Html->link(__('New User'), array('action' => 'add'), array('class' => 'btn')); ?>
 		<?php echo $this->Html->link(__('List Roles'), array('controller' => 'roles', 'action' => 'index'), array('class' => 'btn')); ?>
 		<?php echo $this->Html->link(__('New Role'), array('controller' => 'roles', 'action' => 'add'), array('class' => 'btn')); ?>
-	</ul>
 </div>
 <div class="users index">
-	<table cellpadding="0" cellspacing="0" class="table table-striped">
+	<table class="table table-striped">
 	<tr>
 			<th><?php echo $this->Paginator->sort('id'); ?></th>
 			<th><?php echo $this->Paginator->sort('role_id'); ?></th>

@@ -2511,3 +2511,41 @@ Request URL: /css/bootstrap-responsive.min.css
 Stack Trace:
 #0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2013-08-27 22:58:41 Error: Fatal Error (4): syntax error, unexpected ''))); ?>' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in [D:\sites\dsprog3\app\Plugin\User\View\Users\login.ctp, line 10]
+2013-08-27 22:58:41 Error: [FatalErrorException] syntax error, unexpected ''))); ?>' (T_ENCAPSED_AND_WHITESPACE), expecting ')'
+Request URL: /admin/login
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\sites\dsprog...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\sites\dsprog...', 10, Array)
+#2 D:\sites\dsprog3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\sites\dsprog...', 10, Array)
+#3 D:\sites\dsprog3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-08-27 22:58:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 22:59:22 Error: Fatal Error (4): syntax error, unexpected '')); ?>' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in [D:\sites\dsprog3\app\Plugin\User\View\Users\login.ctp, line 10]
+2013-08-27 22:59:22 Error: [FatalErrorException] syntax error, unexpected '')); ?>' (T_ENCAPSED_AND_WHITESPACE), expecting ')'
+Request URL: /admin/login
+Stack Trace:
+#0 D:\sites\dsprog3\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\sites\dsprog...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\sites\dsprog...', 10, Array)
+#2 D:\sites\dsprog3\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\sites\dsprog...', 10, Array)
+#3 D:\sites\dsprog3\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-08-27 22:59:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/bootstrap-responsive.min.css
+Stack Trace:
+#0 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

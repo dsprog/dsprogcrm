@@ -8,7 +8,7 @@
 	</title>
 	<?php
 		echo $this->Html->meta('icon');
-		echo $this->Html->css(array('bootstrap.min', 'style.admin')); #bootstrap.min, bootstrap-responsive.min
+		echo $this->Html->css(array('bootstrap.min', 'style.login')); #bootstrap.min, bootstrap-responsive.min
 		echo '<script src="http://code.jquery.com/jquery.js"></script>';
 		echo $this->Html->script('bootstrap.min');
 		echo $this->fetch('meta');
@@ -23,7 +23,7 @@
 </head>
 <body>
 	<div class="container-fluid">
-		<div id="content">
+		<div class="boxlogin">
 			<?php echo $this->Session->flash(); ?>
 			<?php echo $this->fetch('content'); ?>
 		</div>

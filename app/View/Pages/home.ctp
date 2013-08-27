@@ -82,7 +82,7 @@ endif;
 		else:
 			echo '<div class="alert alert-error">';
 				echo __d('cake_dev', 'Your database configuration file is NOT present.');
-				echo '<br/>';
+				echo '<br />';
 				echo __d('cake_dev', 'Rename APP/Config/database.php.default to APP/Config/database.php');
 			echo '</div>';
 		endif;
@@ -177,7 +177,6 @@ You can also add some CSS styles for your pages at: APP/webroot/css.');
 </p>
 
 <h3><?php echo __d('cake_dev', 'Official Plugins'); ?></h3>
-<p>
 <ul>
 	<li>
 		<?php echo $this->Html->link('DebugKit', 'https://github.com/cakephp/debug_kit') ?>:
@@ -188,7 +187,6 @@ You can also add some CSS styles for your pages at: APP/webroot/css.');
 		<?php echo __d('cake_dev', 'contains various localized validation classes and translations for specific countries'); ?>
 	</li>
 </ul>
-</p>
 
 <h3><?php echo __d('cake_dev', 'More about Cake'); ?></h3>
 <p>
