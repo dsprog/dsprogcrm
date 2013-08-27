@@ -36,9 +36,9 @@
           </ul>
           <!-- menu da direita -->
           <ul class="nav navbar-nav navbar-right">
-              <li><a href="#"><span class="glyphicon glyphicon-user"></span> Dsprog &nbsp;<span class="label label-danger">42</span></a></li>
+              <li><a href="#"><span class="glyphicon glyphicon-user"></span> <?php echo $this->Session->read('Auth.User.username'); ?> &nbsp;<span class="label label-danger">42</span></a></li>
               <li><a href="#"><span class="glyphicon glyphicon-cog"></span> Configurações</a></li>
-              <li><a href="#"><span class="glyphicon glyphicon-off"></span> Sair</a></li>
+              <li><?php echo $this->Html->link('<span class="glyphicon glyphicon-off"></span> Sair', '/admin/logout', array('escape' => false)); ?>"></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>

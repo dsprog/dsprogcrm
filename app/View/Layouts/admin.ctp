@@ -18,6 +18,8 @@
  */
 
 $cakeDescription = __d('cake_dev', 'Dsprog CRM');
+
+//var_dump($this->Session->read('Auth.User'));
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
