@@ -1157,3 +1157,330 @@ Stack Trace:
 #3 D:\sites\dsprog3\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
 #4 D:\sites\dsprog3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #5 {main}
+2013-08-27 03:47:36 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => 'User',
+)
+Request URL: /user
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:00:33 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => 'User',
+)
+Request URL: /user
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:01:36 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => 'User',
+)
+Request URL: /user
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:03:09 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => 'User',
+)
+Request URL: /user
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:03:38 Error: [MissingActionException] Action UserController::admin_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UserController',
+  'action' => 'admin_index',
+)
+Request URL: /admin/user
+Stack Trace:
+#0 I:\sites\apimel\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 I:\sites\apimel\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UserController), Object(CakeRequest), Object(CakeResponse))
+#2 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-08-27 04:04:39 Error: [MissingActionException] Action UserController::admin_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UserController',
+  'action' => 'admin_index',
+)
+Request URL: /admin/user
+Stack Trace:
+#0 I:\sites\apimel\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 I:\sites\apimel\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UserController), Object(CakeRequest), Object(CakeResponse))
+#2 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-08-27 04:04:44 Error: [MissingActionException] Action UserController::admin_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UserController',
+  'action' => 'admin_index',
+)
+Request URL: /admin/user
+Stack Trace:
+#0 I:\sites\apimel\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 I:\sites\apimel\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UserController), Object(CakeRequest), Object(CakeResponse))
+#2 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-08-27 04:05:26 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /admin/
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:05:31 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:05:37 Error: Fatal Error (4): syntax error, unexpected '=', expecting ')' in [I:\sites\apimel\app\Plugin\User\Controller\UserController.php, line 17]
+2013-08-27 04:05:37 Error: [FatalErrorException] syntax error, unexpected '=', expecting ')'
+Request URL: /user
+Stack Trace:
+#0 I:\sites\apimel\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'I:\sites\apimel...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'I:\sites\apimel...', 17, Array)
+#2 I:\sites\apimel\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'I:\sites\apimel...', 17, Array)
+#3 I:\sites\apimel\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-08-27 04:24:35 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [I:\sites\apimel\app\Controller\AppController.php, line 42]
+2013-08-27 04:24:35 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /admin/user/users
+Stack Trace:
+#0 I:\sites\apimel\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'I:\sites\apimel...', 42)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'I:\sites\apimel...', 42, Array)
+#2 I:\sites\apimel\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'I:\sites\apimel...', 42, Array)
+#3 I:\sites\apimel\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-08-27 04:25:04 Error: Fatal Error (64): Cannot redeclare AppController::$components in [I:\sites\apimel\app\Controller\AppController.php, line 43]
+2013-08-27 04:25:04 Error: [FatalErrorException] Cannot redeclare AppController::$components
+Request URL: /admin/user/users
+Stack Trace:
+#0 I:\sites\apimel\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'I:\sites\apimel...', 43)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'I:\sites\apimel...', 43, Array)
+#2 I:\sites\apimel\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'I:\sites\apimel...', 43, Array)
+#3 I:\sites\apimel\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-08-27 04:25:48 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /admin/users/login
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:26:00 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /admin/users/login
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:27:04 Error: [MissingControllerException] Controller class LoginController could not be found.
+Exception Attributes: array (
+  'class' => 'LoginController',
+  'plugin' => NULL,
+)
+Request URL: /admin/login
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:28:17 Error: [MissingControllerException] Controller class LoginController could not be found.
+Exception Attributes: array (
+  'class' => 'LoginController',
+  'plugin' => NULL,
+)
+Request URL: /admin/login
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:28:39 Error: [MissingControllerException] Controller class LoginController could not be found.
+Exception Attributes: array (
+  'class' => 'LoginController',
+  'plugin' => NULL,
+)
+Request URL: /admin/login
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:29:02 Error: [MissingControllerException] Controller class LoginController could not be found.
+Exception Attributes: array (
+  'class' => 'LoginController',
+  'plugin' => NULL,
+)
+Request URL: /admin/login
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:29:53 Error: Fatal Error (4): syntax error, unexpected ')' in [I:\sites\apimel\app\Config\routes.php, line 36]
+2013-08-27 04:29:53 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /admin/login
+Stack Trace:
+#0 I:\sites\apimel\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'I:\sites\apimel...', 36)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'I:\sites\apimel...', 36, Array)
+#2 I:\sites\apimel\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'I:\sites\apimel...', 36, Array)
+#3 I:\sites\apimel\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-08-27 04:30:20 Error: [MissingActionException] Action UsersController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+)
+Request URL: /admin/login
+Stack Trace:
+#0 I:\sites\apimel\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 I:\sites\apimel\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-08-27 04:31:33 Error: [MissingViewException] View file "I:\sites\apimel\app\Plugin\User\View\Users\login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'I:\\sites\\apimel\\app\\Plugin\\User\\View\\Users\\login.ctp',
+)
+Request URL: /admin/login
+Stack Trace:
+#0 I:\sites\apimel\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 I:\sites\apimel\lib\Cake\Controller\Controller.php(948): View->render(NULL, NULL)
+#2 I:\sites\apimel\lib\Cake\Routing\Dispatcher.php(194): Controller->render()
+#3 I:\sites\apimel\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-08-27 04:38:20 Error: Fatal Error (64): Cannot redeclare AppController::beforeFilter() in [I:\sites\apimel\app\Controller\AppController.php, line 60]
+2013-08-27 04:38:20 Error: [FatalErrorException] Cannot redeclare AppController::beforeFilter()
+Request URL: /admin/login
+Stack Trace:
+#0 I:\sites\apimel\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'I:\sites\apimel...', 60)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', 'I:\sites\apimel...', 60, Array)
+#2 I:\sites\apimel\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', 'I:\sites\apimel...', 60, Array)
+#3 I:\sites\apimel\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-08-27 04:38:42 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users/login
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:40:51 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users/user
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:41:03 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /admin/users/login
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:41:45 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users/login
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:42:03 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users/login
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:43:56 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users/users/login
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:43:58 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users/login
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:45:16 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users/users/login
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:45:30 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /users/users/login
+Stack Trace:
+#0 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-27 04:51:01 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [I:\sites\apimel\app\Controller\AppController.php, line 46]
+2013-08-27 04:51:01 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+Request URL: /admin/login
+Stack Trace:
+#0 I:\sites\apimel\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'I:\sites\apimel...', 46)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'I:\sites\apimel...', 46, Array)
+#2 I:\sites\apimel\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'I:\sites\apimel...', 46, Array)
+#3 I:\sites\apimel\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-08-27 04:51:37 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [I:\sites\apimel\app\Controller\AppController.php, line 44]
+2013-08-27 04:51:37 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /admin/login
+Stack Trace:
+#0 I:\sites\apimel\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'I:\sites\apimel...', 44)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'I:\sites\apimel...', 44, Array)
+#2 I:\sites\apimel\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'I:\sites\apimel...', 44, Array)
+#3 I:\sites\apimel\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-08-27 04:53:18 Error: [CakeException] Authentication adapter "User" was not found.
+Request URL: /admin/login
+Stack Trace:
+#0 I:\sites\apimel\lib\Cake\Controller\Component\AuthComponent.php(695): AuthComponent->constructAuthenticate()
+#1 I:\sites\apimel\lib\Cake\Controller\Component\AuthComponent.php(547): AuthComponent->identify(Object(CakeRequest), Object(CakeResponse))
+#2 I:\sites\apimel\app\Plugin\User\Controller\UsersController.php(119): AuthComponent->login()
+#3 [internal function]: UsersController->login()
+#4 I:\sites\apimel\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#5 I:\sites\apimel\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#6 I:\sites\apimel\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#7 I:\sites\apimel\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}

@@ -1,5 +1,4 @@
 <?php
-// Users
-Router::connect('/user/:username', array(
-	'plugin' => 'user', 'controller' => 'users', 'action' => 'view'), array('pass' => array('username')
+Router::connect('/admin/login', array(
+	'plugin' => 'user', 'controller' => 'users', 'action' => 'login')
 ));
