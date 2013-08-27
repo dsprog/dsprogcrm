@@ -1,9 +1,0 @@
-{
-	"config": {
-		"vendor-dir": "Vendor"
-	},
-	"require": {
-		"mjohnson/admin": "1.*",
-		"mjohnson/uploader": "4.*"
-	}
-}

@@ -22,7 +22,6 @@ class UsersController extends UserAppController {
  * @return void
  */
 	public function admin_index() {
-		$this->layout = 'admin';
 		$this->User->recursive = 0;
 		$this->set('users', $this->paginate());
 	}
